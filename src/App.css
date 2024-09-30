@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ffcccb; /* Light pink background */
+  background-image: radial-gradient(circle, rgba(255, 204, 203, 0.5) 30%, rgba(255, 255, 255, 0) 70%);
+}
+
+h1 {
+  color: #c90c0c;
+  text-align: center;
+}
